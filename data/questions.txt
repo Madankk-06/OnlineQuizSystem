@@ -1,0 +1,20 @@
+1|easy|What is Java?|Programming Language|Operating System|Database|Browser|1
+2|easy|Capital of India?|Mumbai|Delhi|Chennai|Kolkata|2
+3|easy|69*9=?|623|622|620|621|4
+4|easy|Which keyword is used to define a class in Java?|class|define|struct|new|1
+5|easy|Which method is the entry point of a Java program?|main()|start()|run()|init()|1
+6|easy|Which symbol is used to end a statement in Java?|;|.|:|,|1
+7|easy|Which of these is a loop in Java?|for|repeat|loop|iterate|1
+8|easy|Which data type is used to store whole numbers?|int|string|float|char|1
+9|easy|Which operator is used for addition?|+|-|*|/|1
+10|easy|Which keyword is used to create an object?|new|create|make|object|1
+11|easy|Which of these is not a primitive data type?|int|float|string|char|3
+12|easy|Which keyword is used for inheritance in Java?|extends|implements|inherits|super|1
+13|easy|Which package contains Scanner class?|java.util|java.io|java.lang|java.net|1
+14|easy|Which of these is used to print output?|System.out.println|print|echo|write|1
+15|easy|Which loop executes at least once?|do-while|for|while|none|1
+16|easy|Which of these is a valid variable name?|num1|1num|num-1|num 1|1
+17|easy|Which keyword is used to exit a loop?|break|exit|stop|return|1
+18|easy|Which of these is used to take input in Java?|Scanner|Input|Reader|Console|1
+19|easy|Which of these is a valid boolean value?|true|yes|1|on|1
+20|easy|Which operator is used for comparison?|==|=|!=|<>|1
