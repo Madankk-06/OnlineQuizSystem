@@ -1,0 +1,14 @@
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+# Output files
+data/results.txt
