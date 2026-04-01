@@ -157,7 +157,7 @@ Graph Representation:
 
 ## 👨‍💻 Author
 
-* Your Name
+* Madan KK
 
 ---
 
